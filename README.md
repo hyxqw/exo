@@ -2,7 +2,7 @@
 
 ## 一、注册 GitHub 账号
 
-1. 访问 <a href="https://github.com/">https://github.com/</a>
+1. 访问 [https://github.com/](https://github.com/)
 2. 注册并登录你的账号
 
 ## 二、创建新仓库
@@ -22,7 +22,7 @@
 ### 方式二：使用 Git 工具管理代码
 
 1. **安装 Git**  
-   参考：<a href="https://git-scm.com/">Git 官网下载</a>
+   参考：[Git 官网下载](https://git-scm.com/)
 2. **克隆仓库到本地**
    ```bash
    git clone https://github.com/你的用户名/仓库名.git
